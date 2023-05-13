@@ -4,3 +4,9 @@ Username: yasemin
 Password:123
 Projede Authentication işlemleri yapılmıştır. Ayrıca Redux, Router gibi React kütüphaneleri kullanılmıştır. 
 Kurs bilgileri API'dan çekilerek projede kullanılmıştır. 
+
+Projenin kurulumu için:
+npm install
+npm start
+
+e-Ticaret-RestApi projesinin de indirilmesi gerekiyor. 
